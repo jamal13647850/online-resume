@@ -23,7 +23,7 @@ else if( $message == '' ){
 else{
 
 	//Place your Email Here
-	$recipient = "info@example.com";
+	$recipient = "info@jamalghasemi.com";
 
 	$formcontent="نام: $name\nایمیل: $email\nموضوع: $subject\n\nپیام:\n$message";
 
